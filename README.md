@@ -1,1 +1,2 @@
 # UsingSplitMethod
+Использование метода Split
