@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace UsingSplitMethod
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             // Использование метода Split()
             // Метод Split() является одним из наиболее распространенных способов преобразования строки в список.
